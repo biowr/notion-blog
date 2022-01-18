@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'RUIPRIME',
-  domain: 'https://www.notion.so/ruiprime/bd9819a1677b4d6f87c456ea5e16dfca',
+  domain: 'https://docs.ruiprime.cn',
   author: 'Ruiprime',
 
   // open graph metadata (optional)
