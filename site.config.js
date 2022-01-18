@@ -12,7 +12,7 @@ module.exports = {
   author: 'BioR',
 
   // open graph metadata (optional)
-  description: 'Example site description',
+  description: '软件中心',
   socialImageTitle: 'Transitive Bullshit',
   socialImageSubtitle: 'Hello World! 👋',
 
