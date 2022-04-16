@@ -12,8 +12,8 @@ module.exports = {
   author: 'Ruiprime',
 
   // open graph metadata (optional)
-  description: '软件中心',
-  socialImageTitle: 'Transitive Bullshit',
+  description: 'R_DOCUMENT',
+  socialImageTitle: 'RUIPRIME_DOCUMENT',
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
